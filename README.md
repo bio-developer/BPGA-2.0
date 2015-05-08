@@ -1,2 +1,3 @@
 # BPGA
-Pipeline for Bacaterial Pan Genome Analysis 
+Pipeline for Bacaterial Pan Genome Analysis.
+**Under Costruction.
