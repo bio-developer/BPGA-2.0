@@ -1,4 +1,4 @@
 # BPGA
-Pipeline for Bacaterial Pan Genome Analysis.
+Pipeline for Bacterial Pan Genome Analysis.
 
 **Under Construction.
